@@ -1,0 +1,1 @@
+Snappy Chat is a real-time messaging app for seamless and secure communication. It offers user authentication, group chats, media sharing, notifications, and customizable profiles, perfect for personal and professional use.
